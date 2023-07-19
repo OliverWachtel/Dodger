@@ -1,0 +1,43 @@
+body {
+  background: #F24C4C;
+}
+
+#score {
+  font-family: 'Helvetica';
+  text-align: center;
+  background-color: #EC9B3B;
+  font-size: 15pt;
+  margin: auto;
+  margin-top: 0.3in; 
+  width: 140px; 
+  color: #FCF3EE; 
+  border-radius: 2px; 
+  padding: 10px;
+}
+
+#highScore {
+  font-family: 'Helvetica';
+  text-align: center;
+  background-color: #EC9B3B;
+  font-size: 15pt;
+  margin: auto;
+  margin-top: 0.3in; 
+  width: 180px; 
+  color: #FCF3EE; 
+  border-radius: 2px; 
+  padding: 10px;
+}
+
+#reset {
+  display: block;
+  height: 40px;
+  width: 110px;
+  font-family: 'Helvetica';
+  font-size: 25px;
+  border-radius: 10%;
+  cursor: pointer;
+  margin: auto;
+  border-color: #EC9B3B;
+  color: #FCF3EE;
+  background-color: #EC9B3B;
+}
